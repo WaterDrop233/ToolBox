@@ -1,13 +1,8 @@
 import base64
-import io
-import re
-import sys
 import json
 import urllib
 import requests
 from lxml import etree
-from bs4 import BeautifulSoup
-import tkinter.messagebox
 
 
 def entries(content):

@@ -1,8 +1,6 @@
 import re
-import random
 import function
 import tkinter.messagebox
-from time import sleep
 from tkinter import Tk, Canvas, Entry, Text, Button, PhotoImage, StringVar, END
 
 
